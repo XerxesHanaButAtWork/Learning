@@ -102,7 +102,7 @@ hr {
   position: absolute;
   left: 70%;
   top: 5%;
-  animation-duration: 0s;
+  animation-duration: 30s;
   animation-name: slideLeft;
   animation-iteration-count: infinite;
 }
